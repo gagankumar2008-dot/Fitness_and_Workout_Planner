@@ -1,0 +1,20 @@
+[
+  { "id": "push-ups", "name": "Push-ups", "muscle": "Chest", "sets": 3, "reps": "10–12", "level": "Beginner", "icon": "↗" },
+  { "id": "dumbbell-press", "name": "Dumbbell press", "muscle": "Chest", "sets": 4, "reps": "8–10", "level": "Intermediate", "icon": "◈" },
+  { "id": "incline-pushups", "name": "Incline push-ups", "muscle": "Chest", "sets": 3, "reps": "12–15", "level": "Beginner", "icon": "↗" },
+  { "id": "lat-pulldown", "name": "Lat pulldown", "muscle": "Back", "sets": 3, "reps": "10–12", "level": "Beginner", "icon": "⌁" },
+  { "id": "dumbbell-row", "name": "Dumbbell row", "muscle": "Back", "sets": 3, "reps": "10 each", "level": "Beginner", "icon": "⌁" },
+  { "id": "deadlift", "name": "Romanian deadlift", "muscle": "Back", "sets": 4, "reps": "8–10", "level": "Advanced", "icon": "⌁" },
+  { "id": "squats", "name": "Bodyweight squats", "muscle": "Legs", "sets": 3, "reps": "12–15", "level": "Beginner", "icon": "◒" },
+  { "id": "lunges", "name": "Walking lunges", "muscle": "Legs", "sets": 3, "reps": "10 each", "level": "Beginner", "icon": "◒" },
+  { "id": "goblet-squat", "name": "Goblet squat", "muscle": "Legs", "sets": 4, "reps": "8–10", "level": "Intermediate", "icon": "◒" },
+  { "id": "shoulder-press", "name": "Shoulder press", "muscle": "Shoulders", "sets": 3, "reps": "10–12", "level": "Beginner", "icon": "◌" },
+  { "id": "lateral-raises", "name": "Lateral raises", "muscle": "Shoulders", "sets": 3, "reps": "12–15", "level": "Beginner", "icon": "◌" },
+  { "id": "arnold-press", "name": "Arnold press", "muscle": "Shoulders", "sets": 3, "reps": "10–12", "level": "Intermediate", "icon": "◌" },
+  { "id": "bicep-curls", "name": "Bicep curls", "muscle": "Arms", "sets": 3, "reps": "12–15", "level": "Beginner", "icon": "↟" },
+  { "id": "tricep-dips", "name": "Tricep dips", "muscle": "Arms", "sets": 3, "reps": "10–12", "level": "Beginner", "icon": "↟" },
+  { "id": "hammer-curls", "name": "Hammer curls", "muscle": "Arms", "sets": 3, "reps": "10–12", "level": "Intermediate", "icon": "↟" },
+  { "id": "plank", "name": "Plank hold", "muscle": "Core", "sets": 3, "reps": "30–45 sec", "level": "Beginner", "icon": "◉" },
+  { "id": "dead-bugs", "name": "Dead bugs", "muscle": "Core", "sets": 3, "reps": "10 each", "level": "Beginner", "icon": "◉" },
+  { "id": "russian-twists", "name": "Russian twists", "muscle": "Core", "sets": 3, "reps": "16–20", "level": "Intermediate", "icon": "◉" }
+]
