@@ -4,7 +4,7 @@ FitTrack is a responsive weekly workout planner and progress tracker for beginne
 
 ## Live deployment
 
-**Production:** [https://fittrack-planner-murex.vercel.app](https://fittrack-planner-murex.vercel.app)
+**Production:** [https://fittrack-planner-murex.vercel.app](https://fittrack-planner-murex.vercel.app/)
 
 Hosted on Vercel from the public GitHub repository. The production site was verified after deployment.
 
