@@ -2,6 +2,12 @@
 
 FitTrack is a responsive weekly workout planner and progress tracker for beginners and students. It is built with React, Vite, Tailwind CSS, Lucide icons, and Recharts. Your information is saved locally in your browser; no account or backend is required.
 
+## Live deployment
+
+**Production:** [https://fittrack-planner-murex.vercel.app](https://fittrack-planner-murex.vercel.app)
+
+Hosted on Vercel from the public GitHub repository. The production site was verified after deployment.
+
 ## Features
 
 - **Exercise library:** 18 exercises across six muscle groups, with suggested sets, reps, and difficulty. Filter, search, and add an exercise to any day.
